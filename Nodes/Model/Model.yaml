@@ -1,0 +1,14 @@
+Name: Model
+Type: ModelCategoryFolder
+Children:
+- Name: Variable1
+  Type: BaseDataVariableType
+  DataType: Color
+- Name: Variable2
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 50
+- Name: Variable3
+  Type: BaseDataVariableType
+  DataType: ResourceUri
+  Value: "ns=7;%PROJECTDIR%/attachment/Microsoft .svg"
